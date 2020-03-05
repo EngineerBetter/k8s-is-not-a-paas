@@ -24,4 +24,6 @@ Please feel free to use and remix. Please attribute and do not place more restri
 
 This diagram is licensed with Creative Commons By-ShareAlike International 4.0.
 
-_The diagram was exported from Google Slides, so apologies for the awful SVG markup._
+## Engineer's Caveat
+
+The diagram was exported from Google Slides, so apologies for the awful SVG markup.
