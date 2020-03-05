@@ -10,7 +10,7 @@ Diagram aiming to explain the differences in functionality between:
 * Kubernetes-as-a-Service
 * Cloud Foundry deployed on Kubernetes
 
-![Comparison of IaaS, PaaS and KaaS](/iaas-kubes-paas.svg?raw=true)
+![Comparison of IaaS, PaaS and KaaS](/iaas-kubes-paas.svg?raw=true&sanitize=true)
 
 ## Intention
 
