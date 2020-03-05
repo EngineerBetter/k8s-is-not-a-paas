@@ -2,13 +2,11 @@
 
 [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Diagram aiming to explain the differences in functionality between:
+Kubernetes is awesome for all sorts of reasons: convergence; idempotency; API extensibility; elegance; its declarative nature. It also **isn't a PaaS**.
 
-* IaaS
-* Cloud Foundry deployed with BOSH
-* Kubernetes
-* Kubernetes-as-a-Service
-* Cloud Foundry deployed on Kubernetes
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The delta between Kubernetes and a developer friendly PaaS is where the next layer of value is and where things tend to get opinionated -- a requirement for reliable end to end workflows.</p>&mdash; Kelsey Hightower (@kelseyhightower) <a href="https://twitter.com/kelseyhightower/status/1099731286950727680?ref_src=twsrc%5Etfw">February 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+This repo contains an SVG diagram with a permissive license that aims to visualise this delta:
 
 ![Comparison of IaaS, PaaS and KaaS](/iaas-kubes-paas.svg?raw=true&sanitize=true)
 
