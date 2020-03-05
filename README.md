@@ -10,6 +10,9 @@ This repo contains an SVG diagram with a permissive license that aims to visuali
 
 ![Comparison of IaaS, PaaS and KaaS](/iaas-kubes-paas.svg?raw=true&sanitize=true)
 
+* [SVG](/iaas-kubes-paas.svg?raw=true&sanitize=true)
+* [PNG](/iaas-kubes-paas.png?raw=true)
+
 ## Intention
 
 The diagram aims to illustrate the difference in functionality between PaaSes like Cloud Foundry, and 'raw' Kubernetes. We have encountered many folks asking "should I use Cloud Foundry or Kubernetes", not realising that they are very different things.
