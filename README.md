@@ -16,7 +16,7 @@ Diagram aiming to explain the differences in functionality between:
 
 The diagram aims to illustrate the difference in functionality between PaaSes like Cloud Foundry, and 'raw' Kubernetes. We have encountered many folks asking "should I use Cloud Foundry or Kubernetes", not realising that they are very different things.
 
-The diagram does _not_ indicate that the functionality 'missing' from Kubernetes cannot be added, rather that these don't come preconfigured 'out of the box'. You will need to configure in-built primitives (e.g. RBAC), choose plugins (e.g. CNI), choose extensions (e.g. cluster DNS, ingresses, log aggregation), configure all of those, keep them all patched, and also test that new versions work nicely together.
+The diagram does _not_ indicate that the functionality 'missing' from Kubernetes cannot be added; rather that these don't come preconfigured 'out of the box'. You will need to configure in-built primitives (e.g. RBAC), choose plugins (e.g. CNI), choose extensions (e.g. cluster DNS, ingresses, log aggregation), configure all of those, keep them all patched, and also test that new versions work nicely together.
 
 ## Usage Terms
 
