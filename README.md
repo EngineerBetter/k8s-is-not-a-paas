@@ -10,6 +10,7 @@ This repo contains an SVG diagram with a permissive license that aims to visuali
 
 ![Comparison of IaaS, PaaS and KaaS](/iaas-kubes-paas.svg?raw=true&sanitize=true)
 
+* Copyable [Google Slides](https://docs.google.com/presentation/d/18_003QUBN9LxXHUCpNiUeVEiwK0trijLEEQ18VKJ5Ig/edit#slide=id.g7eeebd4022_0_127)
 * [SVG](/iaas-kubes-paas.svg?raw=true&sanitize=true)
 * [PNG](/iaas-kubes-paas.png?raw=true)
 
